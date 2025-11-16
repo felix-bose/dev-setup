@@ -1,7 +1,7 @@
-git config --global user.name 'Felix Schaipp'
-git config --global user.email 'felix.schaipp@auteon.de'
+git config --global user.name 'Felix Bose'
+git config --global user.email '<email>'
 # open commit message editor in vscode
-git config --global core.editor "code --wait"
+git config --global core.editor "cursor --wait"
 # only fast forward on auto pull commands
 git config --global pull.ff only
 # sign your commits with gpg (I used gpg to create the keys)
